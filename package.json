@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "description": "linux client for nordvpn",
   "main": "index.js",
+  "type": "module",
   "bin": "index.js",
   "scripts": {
     "start": "index.js",
