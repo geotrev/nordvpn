@@ -26,10 +26,10 @@
   "dependencies": {
     "inquirer": "^6.2.2",
     "inquirer-autocomplete-prompt": "^1.0.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "pkg": "^4.3.7"
+    "pkg": "^4.4.9"
   }
 }
